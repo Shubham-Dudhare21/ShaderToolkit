@@ -1,0 +1,26 @@
+schema_version = "1.0.0"
+
+id = "shader_toolkit"
+version = "3.0.0"
+name = "Shader Toolkit"
+tagline = "A collection of tools to speed up shader creation and management"
+maintainer = "RenderCodeStudio"
+
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = [
+    "SPDX:GPL-3.0-or-later",
+]
+
+tags = [
+    "Node",
+    "Material",
+]
+copyright = [
+    "2026 RenderCodeStudio",
+]
+
+[permissions]
+files = "Import texture files from disk."
